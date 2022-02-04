@@ -17,6 +17,7 @@ public class Javatest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println(" Forhad");
+        System.out.println(" I love U");
     }
     
 }
